@@ -1,0 +1,7 @@
+body{
+background-image: src="smoke.jpg"
+}
+#container h1.fancy-header {
+    color: SpringGreen;
+    text-decoration: underline;
+}
